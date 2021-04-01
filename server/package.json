@@ -1,0 +1,15 @@
+{
+  "name": "dashboard",
+  "version": "1.0.1",
+  "description": "Dashboard for displaying statistics of housing and communal services",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dashboard",
+    "Volgograd"
+  ],
+  "author": "",
+  "license": "ISC"
+}
